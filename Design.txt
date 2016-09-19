@@ -1,0 +1,14 @@
+-= GUI System =-
+
+Objects:
+- Window
+- Frame
+- Image
+- Text
+- Input Box
+- Button
+- Check Box
+- Radio Buttons
+- List Box
+- Combo Box
+- Scroll Bars
